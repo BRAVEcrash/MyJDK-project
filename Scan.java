@@ -1,4 +1,4 @@
-import java.util.Scanr;
+import java.util.Scan;
 
 public class Scanner {
 
